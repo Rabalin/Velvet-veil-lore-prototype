@@ -1,0 +1,143 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.yap {
+    color: rgb(245, 245, 245);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.konecR {
+    border-top: 1px solid white;
+    box-shadow: 1px -5px 5px rgba(37, 71, 121);
+
+}
+
+.konecI {
+    border-top: 1px solid white;
+    box-shadow: 1px -5px 5px rgb(78, 2, 2);
+}
+
+.konecN {
+    border-top: 1px solid white;
+    box-shadow: 1px -5px 5px rgb(253, 233, 190, 0.8);
+}
+
+.konecM {
+    border-top: 1px solid rgb(255, 255, 255);
+    box-shadow: 1px -5px 5px rgb(255, 255, 255, 0.8);
+
+}
+
+.konecE {
+    border-top: 1px solid rgb(255, 255, 255);
+    box-shadow: 1px -5px 5px rgb(100, 3, 3);
+
+}
+
+.konecY {
+    border-top: 1px solid rgb(255, 255, 255);
+    box-shadow: 1px -5px 5px rgb(255, 170, 196);
+
+}
+
+.konecA {
+    border-top: 1px solid rgb(255, 255, 255);
+    box-shadow: 1px -5px 5px rgb(144, 248, 255);
+
+}
+.konecAiko {
+    border-top: 1px solid rgb(255, 255, 255);
+    box-shadow: 1px -5px 5px rgb(33, 112, 46);
+
+}
+
+.Rabalinjmeno {
+    border-bottom: white solid 1px;
+    box-shadow: 1px 5px 5px rgb(37, 71, 121);
+    
+}
+
+.rabalinfoto {
+    border: rgb(10, 33, 68), solid 3px;
+    box-shadow: 0px 0px 0px 1px rgb(65, 78, 143);
+}
+
+.vedle {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin: 40px 0;
+}
+
+.Izumijmeno {
+    border-bottom: white solid 1px;
+    box-shadow: 1px 5px 5px rgb(78, 2, 2);
+    
+}
+
+.Izumifoto {
+    border: rgb(78, 6, 6), solid 3px;
+    box-shadow: 0px 0px 0px 1px rgb(151, 15, 15);
+}
+
+.Naeliajmeno {
+    border-bottom: white solid 1px;
+    box-shadow: 1px 5px 5px rgb(253, 233, 190, 0.8);
+}
+
+.Naeliafoto {
+    border: rgb(255, 174, 51) solid 2px;
+    box-shadow: 0px 0px 0px 1px rgb(253, 233, 190);
+}
+
+.Miafoto {
+    border: rgb(255, 255, 255) solid 2px;
+    box-shadow: 0px 0px 0px 1px rgb(185, 185, 185);
+}
+
+.Miajmeno {
+    border-bottom: rgb(255, 255, 255) solid 1px;
+    box-shadow: 1px 5px 5px rgba(255, 255, 255, 0.8);
+}
+
+.Erisfoto {
+    border: rgb(85, 1, 1) solid 2px;
+    box-shadow: 0px 0px 0px 1px rgb(100, 3, 3);
+}
+
+.Erisjmeno {
+    border-bottom: rgb(255, 255, 255) solid 1px;
+    box-shadow: 1px 5px 5px rgba(119, 24, 24, 0.8);
+}
+
+.Yukifoto {
+    border: rgb(255, 170, 196) solid 2px;
+    box-shadow: 0px 0px 0px 1px rgb(255, 198, 231);
+}
+
+.Yukijmeno {
+    border-bottom: rgb(255, 255, 255) solid 1px;
+    box-shadow: 1px 5px 5px rgb(255, 170, 196);
+}
+
+.Azryljmeno {
+    border-bottom: rgb(255, 255, 255) solid 1px;
+    box-shadow: 1px 5px 5px rgb(144, 248, 255);
+}
+
+.Azrylfoto {
+    border: rgb(28, 145, 255) solid 2px;
+    box-shadow: 0px 0px 0px 1px rgb(194, 243, 255);
+}
+
+.Aikofoto {
+    border: rgb(12, 66, 54) solid 2px;
+    box-shadow: 0px 0px 0px 1px rgb(19, 126, 42);
+}
+
+.Aikojmeno {
+    border-bottom: rgb(255, 255, 255) solid 1px;
+    box-shadow: 1px 5px 5px rgb(33, 112, 46);
+}
+
